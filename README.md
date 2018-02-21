@@ -1,2 +1,3 @@
 # Society6Bot
-Society6 bot follow and like
+This script scraping society6.com artists, following artists or promoting products.
+
